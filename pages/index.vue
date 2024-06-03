@@ -140,7 +140,7 @@ const handleCopy = async (btn: string): Promise<void> => {
   
   </div>
   <footer class="relative flex items-center bottom-0 pt-10 pb-10 justify-center w-full">
-    <p class="text-gray-400 dark:text-gray-600 text-center text-md">© Copyright 2024, <a class="text-sky-300 hover:underline" href="https://libyzxy0.com">libyzxy0</a> Allrights reserved.</p>
+    <p class="text-gray-400 dark:text-gray-600 text-center text-md">© Copyright 2024, <a class="text-sky-300 hover:underline" href="https://github.com/Metoushael17">walker</a> Allrights reserved.</p>
   </footer>
   </div>
   <Toaster />
